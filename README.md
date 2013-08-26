@@ -10,6 +10,6 @@ Gems used:
 Usage
 -------------
 
-  ruby github_favorite_language.rb :github_user_login
+`ruby github_favorite_language.rb :github_user_login`
   
-  :github_user_login - Github user's login
+`:github_user_login - Github user's login`
