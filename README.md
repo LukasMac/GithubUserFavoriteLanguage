@@ -1,7 +1,7 @@
 Github user's favorite programing language
 ===================
 
-Returns Github user's favorite programing language from it's username.
+Returns Github user's favorite programing language from github username.
 
 Gems used:
 - 'net/https' - for making get request to Github API
@@ -10,6 +10,6 @@ Gems used:
 Usage
 -------------
 
-`ruby github_favorite_language.rb :github_user_login`
+`ruby github_favorite_language.rb :github_user_login
 
-s:github_user_login - Github user's login
+:github_user_login - Github user's login`
